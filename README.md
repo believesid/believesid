@@ -1,16 +1,16 @@
 
 ![logo](https://media.licdn.com/dms/image/C4D12AQHvoj3qNDLQ3g/article-cover_image-shrink_600_2000/0/1625741241925?e=2147483647&v=beta&t=2e8szEFL5ejBokPmRjS78dfM7MRT5H6uD48-3BrxJ5g)
 <h1 align="center">Hi 👋, I'm Siddharth Nayak</h1>
-<h3 align="center">A passionate coding enthusiast wanna play at the highest level</h3>
+<h3 align="center">A passionate coding enthusiast wanna be at the highest level</h3>
 <img align="right" width="400" src="https://img.freepik.com/premium-photo/anime-boy-is-coding_1040322-5696.jpg" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=believesid&label=Profile%20views&color=0e75b6&style=flat" alt="believesid" /> </p>
 
-- 🔭 I’m currently working on **Paytm(End to end)**
+- 🔭 I’m currently working on **Paytm project(End to end)**
 
-- 🌱 I’m currently learning **MERN full stack development**
+- 🌱 I currently work as a **full stack developer (MERN Technology)**
 
-- 📫 How to reach me **nayaksiddharth2004@gmail.com**
+- 📫 How to reach me **nayaksiddharth1801@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
