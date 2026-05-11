@@ -1,7 +1,7 @@
 
 ![logo](https://media.licdn.com/dms/image/C4D12AQHvoj3qNDLQ3g/article-cover_image-shrink_600_2000/0/1625741241925?e=2147483647&v=beta&t=2e8szEFL5ejBokPmRjS78dfM7MRT5H6uD48-3BrxJ5g)
 <h1 align="center">Hi 👋, I'm Siddharth Nayak</h1>
-<h3 align="center">A passionate coding enthusiast wanna be at the highest level</h3>
+<h3 align="center">A passionate coding enthusiast wanna create good impact through my work and inspire others</h3>
 <img align="right" width="400" src="https://img.freepik.com/premium-photo/anime-boy-is-coding_1040322-5696.jpg" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=believesid&label=Profile%20views&color=0e75b6&style=flat" alt="believesid" /> </p>
